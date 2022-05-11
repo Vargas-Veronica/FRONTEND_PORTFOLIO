@@ -1,0 +1,12 @@
+.row{
+    padding: 5%;
+
+}
+
+div{
+    background: pink;
+}
+
+h1, h3 {
+    display: inline;
+}
