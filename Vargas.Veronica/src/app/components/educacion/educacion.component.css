@@ -4,9 +4,9 @@
 }
 
 div{
-    background: pink;
+    background: rgb(239, 220, 232);;
 }
 
-h1, h3 {
+ .h3, .h6 {
     display: inline;
 }
