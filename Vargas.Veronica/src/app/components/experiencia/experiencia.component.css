@@ -1,12 +1,18 @@
 .row{
     padding: 5%;
+    margin-top: 0px;
 
 }
 
 div{
-    background: rgb(239, 220, 232);;;
+    background: rgb(239, 220, 232);
+
 }
 
 h4 {
     display: inline;
+}
+
+h2 {
+    margin-top:0px
 }

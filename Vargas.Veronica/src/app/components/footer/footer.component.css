@@ -3,9 +3,13 @@
 }
 
 footer{
-    color: aliceblue;
+    color: rgb(247, 249, 252);
     font-size: 14px;
     display: flex;
     flex-direction: column;
     text-align: center;
+}
+
+#contacto{
+    color: aliceblue;
 }
